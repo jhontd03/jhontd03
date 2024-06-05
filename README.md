@@ -7,7 +7,7 @@
 ## Experiencia
 - **Analista de Datos** en VTALGO (2023-Presente)
   - Desarrollo y optimización de modelos predictivos aplicados al trading algorítmico.
-  - Procesos de capacitación sobre minería de datos aplicados al trading algorítmico.
+  - Servicios de capacitación en minería de datos aplicados al trading algorítmico.
   
 ## Proyectos Destacados
 - **Predicción de Potenciales Compradores**: Aplicación de técnicas de aprendizaje automático para predecir comportamientos de compra en e-commerce. [Ver más](Link-al-proyecto)
