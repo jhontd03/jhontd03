@@ -1,7 +1,7 @@
 # ¡Hola, soy Jhon Jairo Realpe! 👋
 
 ## Sobre Mí
-🎓 Soy científico de datos con un Máster en Ciencia de Datos de la UOC.
+🎓 Soy científico de datos con un Máster en Ciencia de Datos de la [UOC](https://www.uoc.edu/es/estudios/masters/master-universitario-data-science).
 🔍 Me apasiona descubrir patrones y extraer insights significativos de grandes conjuntos de datos.
 
 ## Experiencia
