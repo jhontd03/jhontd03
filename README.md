@@ -21,5 +21,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Proyectos Destacados
-- **Predicción de Potenciales Compradores**: Aplicación de técnicas de aprendizaje automático para predecir comportamientos de compra en e-commerce. [Ver más](Link-al-proyecto)
-- **Análisis de Sentimientos en Noticias**: Utilización de técnicas de web scraping y análisis de sentimientos para entender el clima político y económico en Colombia. [Ver más](Link-al-proyecto)
+
+- **Predicción de Potenciales Compradores en un e-commerce**: Aplicación de técnicas de aprendizaje automático para predecir comportamientos de compra en e-commerce. [Ver más](https://github.com/jhontd03/PredictionCustomer)
+- **Análisis de Sentimientos en Noticias**: Utilización de técnicas de web scraping y análisis de sentimientos para entender el clima político y económico en Colombia. [Ver más](https://github.com/jhontd03/eltiemposcraper)
+- **Diseño de una red de transporte urbano en Nueva York**: Diseño de redes de transporte con métodos de clusterización y algoritmo Kruskal. [Ver más](https://github.com/jhontd03/TransportNetworks)
+- **Explorando las condiciones que conllevan a la accidentalidad en las carreteras de los Estados Unidos**: Visualizaciones interactivas para explorar las condiciones que conllevan a la accidentalidad en las carreteras de los Estados Unidos. [Ver más](https://github.com/jhontd03/accidentapp)
