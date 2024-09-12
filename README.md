@@ -6,6 +6,7 @@
 
 ## Experiencia
 - **Científico de Datos** | Independiente (2022-Presente)
+  - Desarrollo de un Framework basado en python, vectorbt y el algoritmo RIPPER, orientado al diseño, backtest y pruebas de robustez de estrategias de trading algorítmico.
   - Desarrollo y optimización de modelos predictivos aplicados al trading algorítmico.
   - Servicios de capacitación en minería de datos aplicados al trading algorítmico.
 
