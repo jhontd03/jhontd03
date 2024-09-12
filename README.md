@@ -5,7 +5,7 @@
 🔍 Me apasiona descubrir patrones y extraer insights significativos de grandes conjuntos de datos.
 
 ## Experiencia
-- **Científico de Datos** en VTALGO (2023-Presente)
+- **Científico de Datos** | Independiente (2022-Presente)
   - Desarrollo y optimización de modelos predictivos aplicados al trading algorítmico.
   - Servicios de capacitación en minería de datos aplicados al trading algorítmico.
 
